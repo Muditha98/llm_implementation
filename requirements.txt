@@ -20,6 +20,12 @@ langserve
 fastapi
 uvicorn
 sse_starlette
+mysql-connector-python
+SQLAlchemy
+
+
+
+
 
 
 
